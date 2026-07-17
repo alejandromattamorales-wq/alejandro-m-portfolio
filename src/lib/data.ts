@@ -6,8 +6,7 @@ export const profile = {
   location: "Costa Rica",
   email: "alejandro.matta.morales@gmail.com",
   socials: {
-    github: "https://github.com/",
-    linkedin: "https://www.linkedin.com/",
+    github: "https://github.com/alejandromattamorales-wq",
   },
 };
 
