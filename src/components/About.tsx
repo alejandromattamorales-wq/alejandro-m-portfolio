@@ -19,7 +19,7 @@ export function About() {
         <p className="mt-6 max-w-2xl border-l-2 border-border pl-4 text-muted">
           Over 6 years of experience designing, developing, and delivering
           scalable web applications. I&apos;ve worked across
-          e-commerce, internal tooling, and client projects, with a recurring
+          e-commerce, Fintech, internal tooling, with a recurring
           focus on performance, SEO, and cloud infrastructure on AWS and GCP.
           Based in {profile.location}.
         </p>
